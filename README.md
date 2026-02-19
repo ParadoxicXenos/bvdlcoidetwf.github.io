@@ -17,9 +17,6 @@ cd WC-DigiClub-Site
 ```
 4. Make your changes in the text editor of your choice and commit them
 5. Push your changes to origin
-```bash
-git push origin main
-```
 6. Open a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 ## Tips

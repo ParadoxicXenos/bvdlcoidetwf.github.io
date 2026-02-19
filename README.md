@@ -13,7 +13,7 @@ Make any changes you want. Make the website your own. Just follow these simple r
 3. Fork the repository on Github.
 4. Clone your fork locally.
 ```bash
-git clone https://github.com/YOURUSERNAME/WC-DigiClub-Site.git
+git clone https://github.com/YOURUSERNAME/bvdlcoidetwf.github.io.git
 cd WC-DigiClub-Site
 ```
 4. Make your changes in the text editor of your choice and commit them.

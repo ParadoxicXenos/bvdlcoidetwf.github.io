@@ -10,20 +10,14 @@ Nitch2024: https://github.com/Nitch2024/XenonRecomp
 
 This one has worked better for me due to actually getting switch tables from the .xex file, unlike the original one
 
-To get any exe file from the code you must use CMake and visual studio to build it (i will link the tutorial i used below for you!)
+To get any exe file from the code you must use CMake and Visual Studio to build it (i will link the tutorial I used below for you!)
 
 
-HOW TO GET THE .XEX file
+===================================================================================HOW TO GET THE .XEX file===================================================================================================
 Step 1: Legally obtain a copy of FH1 (or non legally)
 Step 2: Use XGD Tool to  get the .xex from your .iso
 Step 3: Use XEX Tool to unencrypt the .xex file
 Step 4: you are done now :)
-
-
-
-
-
-
 ==============================================================================================LINKS================================================================================================================
 XenonRecomp/Analyse Tutorial (NOT MINE)
 https://www.youtube.com/watch?v=w-1Pgn5V3wY

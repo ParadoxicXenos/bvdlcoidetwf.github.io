@@ -4,4 +4,4 @@ WORKDIR /app
 COPY . .
 EXPOSE 9999
 RUN npm install
-CMD ['npm', 'run', 'start']
+CMD ["npm", "run", "start"]
